@@ -503,6 +503,10 @@
                 }
               }
             },
+            "5": {
+              "title": "Fish",
+              "id": 257
+            },
             "2.5": {
               "title": "Plants",
               "id": 216,
@@ -538,7 +542,18 @@
             "3": {
               "title": "Tent",
               "id": 58
+            },
+            "4": {
+              "title": "Cart",
+              "id": 259
+            },
+            "5": {
+              "title": "Boat",
+              "id": 260
             }
+          },
+          "attr": {
+            "style": {}
           }
         },
         "3": {
@@ -732,6 +747,18 @@
         "10": {
           "title": "Needs To Defecate",
           "id": 196
+        },
+        "11": {
+          "title": "Moves on ground",
+          "id": 254
+        },
+        "12": {
+          "title": "Moves in air",
+          "id": 255
+        },
+        "13": {
+          "title": "Moves in water",
+          "id": 256
         }
       },
       "attr": {
