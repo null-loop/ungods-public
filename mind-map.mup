@@ -122,7 +122,25 @@
         },
         "3": {
           "title": "Stat tracking",
-          "id": 79
+          "id": 79,
+          "ideas": {
+            "1": {
+              "title": "F/W",
+              "id": 245
+            },
+            "2": {
+              "title": "Stat source",
+              "id": 246
+            },
+            "3": {
+              "title": "Stat storage",
+              "id": 247
+            },
+            "4": {
+              "title": "UI",
+              "id": 253
+            }
+          }
         }
       }
     },
@@ -554,42 +572,6 @@
         }
       },
       "ideas": {
-        "1": {
-          "title": "Pause",
-          "id": 63,
-          "attr": {
-            "style": {
-              "background": "#008080"
-            }
-          }
-        },
-        "2": {
-          "title": "Resume",
-          "id": 64,
-          "attr": {
-            "style": {
-              "background": "#008080"
-            }
-          }
-        },
-        "3": {
-          "title": "Speed Up",
-          "id": 65,
-          "attr": {
-            "style": {
-              "background": "#008080"
-            }
-          }
-        },
-        "4": {
-          "title": "Slow Down",
-          "id": 66,
-          "attr": {
-            "style": {
-              "background": "#008080"
-            }
-          }
-        },
         "5": {
           "title": "Day / night",
           "id": 153,
@@ -602,6 +584,53 @@
         "6": {
           "title": "Seasons",
           "id": 154
+        },
+        "7": {
+          "title": "UI",
+          "id": 244,
+          "ideas": {
+            "1": {
+              "title": "Slow Down",
+              "id": 66,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            },
+            "2": {
+              "title": "Speed Up",
+              "id": 65,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            },
+            "3": {
+              "title": "Resume",
+              "id": 64,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            },
+            "4": {
+              "title": "Pause",
+              "id": 63,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#808000"
+            }
+          }
         }
       }
     },
@@ -1094,6 +1123,28 @@
             }
           }
         },
+        "4": {
+          "title": "Query builder UI",
+          "id": 248,
+          "ideas": {
+            "1": {
+              "title": "Simple to use",
+              "id": 249
+            },
+            "2": {
+              "title": "Tabular results",
+              "id": 250
+            },
+            "3": {
+              "title": "Save queries",
+              "id": 251
+            },
+            "4": {
+              "title": "Auto execute",
+              "id": 252
+            }
+          }
+        },
         "0.5": {
           "title": "Parser",
           "id": 84,
@@ -1198,7 +1249,54 @@
                   "title": "The Dumb Age",
                   "id": 51,
                   "ideas": {
-                    "1": {
+                    "2": {
+                      "title": "Tool Use",
+                      "id": 53,
+                      "ideas": {
+                        "3": {
+                          "title": "Stone",
+                          "id": 59,
+                          "attr": {
+                            "style": {}
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "Wood",
+                              "id": 60,
+                              "attr": {
+                                "style": {}
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "7": {
+                      "title": "Hunting",
+                      "id": 55,
+                      "ideas": {
+                        "1": {
+                          "title": "Skinning",
+                          "id": 54,
+                          "attr": {
+                            "style": {}
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "Tent Making",
+                              "id": 241,
+                              "attr": {
+                                "style": {}
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "17": {
                       "title": "Fire",
                       "id": 52,
                       "ideas": {
@@ -1217,28 +1315,20 @@
                           "title": "Heat",
                           "id": 225,
                           "ideas": {}
+                        },
+                        "4": {
+                          "title": "Cooking",
+                          "id": 243
                         }
+                      },
+                      "attr": {
+                        "position": [
+                          124,
+                          124,
+                          1
+                        ],
+                        "style": {}
                       }
-                    },
-                    "2": {
-                      "title": "Tool Use",
-                      "id": 53
-                    },
-                    "3": {
-                      "title": "Skinning",
-                      "id": 54
-                    },
-                    "4": {
-                      "title": "Hunting",
-                      "id": 55
-                    },
-                    "5": {
-                      "title": "Stone",
-                      "id": 59
-                    },
-                    "6": {
-                      "title": "Wood",
-                      "id": 60
                     }
                   }
                 }
