@@ -597,6 +597,31 @@
               "background": "#008080"
             }
           }
+        },
+        "8": {
+          "title": "Needs To Eat",
+          "id": 192,
+          "ideas": {
+            "1": {
+              "title": "Herbivore",
+              "id": 194,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Carnivore",
+              "id": 195
+            }
+          }
+        },
+        "9": {
+          "title": "Needs To Sleep",
+          "id": 193
+        },
+        "10": {
+          "title": "Needs To Defecate",
+          "id": 196
         }
       },
       "attr": {
@@ -673,13 +698,6 @@
             }
           }
         }
-      }
-    },
-    "-33": {
-      "title": "Manipulations",
-      "id": 35,
-      "attr": {
-        "style": {}
       }
     },
     "4.5": {
@@ -851,7 +869,41 @@
         },
         "2": {
           "title": "Data Components",
-          "id": 82
+          "id": 82,
+          "ideas": {
+            "1": {
+              "title": "Grows  Old",
+              "id": 210,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            },
+            "2": {
+              "title": "Meta Data",
+              "id": 211,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            },
+            "3": {
+              "title": "Owned",
+              "id": 212,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
         },
         "3": {
           "title": "Data Filters",
@@ -1158,6 +1210,69 @@
           -1094,
           9
         ]
+      }
+    },
+    "-18": {
+      "title": "Manipulations",
+      "id": 35,
+      "attr": {
+        "style": {},
+        "position": [
+          686,
+          836,
+          13
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Clone",
+          "id": 197
+        },
+        "2": {
+          "title": "Die",
+          "id": 198
+        },
+        "3": {
+          "title": "Eat",
+          "id": 199
+        },
+        "4": {
+          "title": "Explode",
+          "id": 200
+        },
+        "5": {
+          "title": "Extinguish",
+          "id": 201
+        },
+        "6": {
+          "title": "Grow",
+          "id": 202
+        },
+        "7": {
+          "title": "Giant",
+          "id": 203,
+          "ideas": {}
+        },
+        "8": {
+          "title": "Ignite",
+          "id": 205
+        },
+        "9": {
+          "title": "Move",
+          "id": 206
+        },
+        "10": {
+          "title": "Petrify",
+          "id": 207
+        },
+        "11": {
+          "title": "Warp",
+          "id": 208
+        },
+        "12": {
+          "title": "Switch",
+          "id": 209
+        }
       }
     }
   },
