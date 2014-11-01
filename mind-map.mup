@@ -258,15 +258,30 @@
           "ideas": {
             "1": {
               "title": "Moon",
-              "id": 187
+              "id": 187,
+              "attr": {
+                "style": {
+                  "background": "#808000"
+                }
+              }
             },
             "2": {
               "title": "Sun",
-              "id": 188
+              "id": 188,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
             },
             "3": {
               "title": "Clouds",
-              "id": 189
+              "id": 189,
+              "attr": {
+                "style": {
+                  "background": "#808000"
+                }
+              }
             }
           },
           "attr": {
@@ -287,7 +302,12 @@
                 },
                 "2": {
                   "title": "Sea",
-                  "id": 185
+                  "id": 185,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
                 },
                 "3": {
                   "title": "Lakes",
@@ -300,7 +320,12 @@
             },
             "2": {
               "title": "Terrain",
-              "id": 191
+              "id": 191,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
             }
           }
         },
@@ -844,7 +869,12 @@
       "ideas": {
         "1": {
           "title": "UI",
-          "id": 140
+          "id": 140,
+          "attr": {
+            "style": {
+              "background": "#808000"
+            }
+          }
         },
         "2": {
           "title": "MP3s",
@@ -1149,7 +1179,25 @@
                   "ideas": {
                     "1": {
                       "title": "Fire",
-                      "id": 52
+                      "id": 52,
+                      "ideas": {
+                        "1": {
+                          "title": "Fuel",
+                          "id": 220,
+                          "attr": {
+                            "style": {}
+                          }
+                        },
+                        "2": {
+                          "title": "Oxygen",
+                          "id": 222
+                        },
+                        "3": {
+                          "title": "Heat",
+                          "id": 225,
+                          "ideas": {}
+                        }
+                      }
                     },
                     "2": {
                       "title": "Tool Use",
@@ -1179,15 +1227,49 @@
         },
         "6": {
           "title": "Armies",
-          "id": 22
+          "id": 22,
+          "ideas": {
+            "1": {
+              "title": "Leaders",
+              "id": 227
+            }
+          }
         },
         "7": {
           "title": "Cities",
-          "id": 23
+          "id": 23,
+          "ideas": {
+            "1": {
+              "title": "Leaders",
+              "id": 228
+            },
+            "2": {
+              "title": "Councils",
+              "id": 229
+            }
+          }
         },
         "8": {
           "title": "Groups",
-          "id": 24
+          "id": 24,
+          "ideas": {
+            "1": {
+              "title": "Herds",
+              "id": 231
+            },
+            "2": {
+              "title": "Forests",
+              "id": 233
+            },
+            "3": {
+              "title": "Grasslands",
+              "id": 235
+            },
+            "4": {
+              "title": "Factions",
+              "id": 236
+            }
+          }
         },
         "9": {
           "title": "Dogma",
