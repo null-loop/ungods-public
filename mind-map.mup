@@ -1,0 +1,971 @@
+{
+  "title": "Ungods",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Game Concepts",
+      "id": 15,
+      "ideas": {
+        "1": {
+          "title": "Faith",
+          "id": 16
+        },
+        "2": {
+          "title": "Devotion",
+          "id": 17
+        },
+        "3": {
+          "title": "Power",
+          "id": 18
+        },
+        "4": {
+          "title": "Technology",
+          "id": 19
+        },
+        "5": {
+          "title": "Knowledge",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "Facets",
+              "id": 21
+            },
+            "2": {
+              "title": "Ages",
+              "id": 50,
+              "ideas": {
+                "1": {
+                  "title": "The Dumb Age",
+                  "id": 51,
+                  "ideas": {
+                    "1": {
+                      "title": "Fire",
+                      "id": 52
+                    },
+                    "2": {
+                      "title": "Tool Use",
+                      "id": 53
+                    },
+                    "3": {
+                      "title": "Skinning",
+                      "id": 54
+                    },
+                    "4": {
+                      "title": "Hunting",
+                      "id": 55
+                    },
+                    "5": {
+                      "title": "Stone",
+                      "id": 59
+                    },
+                    "6": {
+                      "title": "Wood",
+                      "id": 60
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "title": "Armies",
+          "id": 22
+        },
+        "7": {
+          "title": "Cities",
+          "id": 23
+        },
+        "8": {
+          "title": "Groups",
+          "id": 24
+        },
+        "9": {
+          "title": "Dogma",
+          "id": 37,
+          "ideas": {
+            "1": {
+              "title": "Gender equality",
+              "id": 38
+            },
+            "2": {
+              "title": "Attitude to other factions",
+              "id": 39
+            },
+            "3": {
+              "title": "Allowed technology",
+              "id": 40
+            },
+            "4": {
+              "title": "Allowed foods",
+              "id": 41
+            },
+            "5": {
+              "title": "Holy days",
+              "id": 42,
+              "ideas": {
+                "1": {
+                  "title": "Religious calender",
+                  "id": 43,
+                  "ideas": {
+                    "1": {
+                      "title": "Festival builder",
+                      "id": 44,
+                      "ideas": {
+                        "1": {
+                          "title": "Prebuilts?",
+                          "id": 70,
+                          "ideas": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "title": "Un Nature",
+              "id": 97,
+              "ideas": {
+                "1": {
+                  "title": "Fanaticism",
+                  "id": 98
+                },
+                "2": {
+                  "title": "Conflict",
+                  "id": 99
+                },
+                "3": {
+                  "title": "Innovation",
+                  "id": 100
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "4": {
+      "title": "Scripting",
+      "id": 47,
+      "ideas": {
+        "1": {
+          "title": "API",
+          "id": 48,
+          "ideas": {
+            "1": {
+              "title": "Register manipulation",
+              "id": 74
+            },
+            "2": {
+              "title": "Register customisation",
+              "id": 75
+            },
+            "3": {
+              "title": "Register  for events",
+              "id": 111,
+              "attr": {
+                "style": {
+                  "background": "#808000"
+                }
+              }
+            },
+            "4": {
+              "title": "Execute command(s)",
+              "id": 122
+            }
+          }
+        },
+        "2": {
+          "title": "UI",
+          "id": 49
+        },
+        "3": {
+          "title": "Docs",
+          "id": 72
+        }
+      }
+    },
+    "6": {
+      "title": "Events",
+      "id": 76,
+      "ideas": {
+        "1": {
+          "title": "UI",
+          "id": 77
+        },
+        "2": {
+          "title": "History",
+          "id": 78
+        },
+        "3": {
+          "title": "Stat tracking",
+          "id": 79
+        }
+      }
+    },
+    "7": {
+      "title": "Entity selection",
+      "id": 90,
+      "ideas": {
+        "1": {
+          "title": "select Command",
+          "id": 91,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
+        },
+        "2": {
+          "title": "Singular mouse selection",
+          "id": 92,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
+        },
+        "3": {
+          "title": "Group recall",
+          "id": 94,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Group Window",
+              "id": 152
+            }
+          }
+        },
+        "4": {
+          "title": "Box selection",
+          "id": 101
+        },
+        "5": {
+          "title": "On screen selection",
+          "id": 102
+        }
+      }
+    },
+    "8": {
+      "title": "Game Modes",
+      "id": 143,
+      "attr": {
+        "position": [
+          78,
+          710,
+          7
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Zen",
+          "id": 144
+        },
+        "2": {
+          "title": "Interventionist",
+          "id": 145
+        }
+      }
+    },
+    "9": {
+      "title": "UI",
+      "id": 146,
+      "ideas": {
+        "1": {
+          "title": "Right Click",
+          "id": 147,
+          "ideas": {
+            "1": {
+              "title": "No selection",
+              "id": 148,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#808000"
+                }
+              }
+            },
+            "2": {
+              "title": "Selection",
+              "id": 150,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#993300"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Things",
+      "id": 14,
+      "ideas": {
+        "1": {
+          "title": "Living",
+          "id": 5,
+          "ideas": {
+            "1": {
+              "title": "Trees",
+              "id": 6,
+              "ideas": {
+                "1": {
+                  "title": "Giant Redwood",
+                  "id": 7,
+                  "attr": {
+                    "style": {
+                      "background": "#808000"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Apple",
+                  "id": 8
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "2": {
+              "title": "Fungi",
+              "id": 9,
+              "ideas": {
+                "1": {
+                  "title": "Death Cap",
+                  "id": 10
+                }
+              }
+            },
+            "3": {
+              "title": "Mammals",
+              "id": 11,
+              "ideas": {
+                "1": {
+                  "title": "Cows",
+                  "id": 12
+                },
+                "2": {
+                  "title": "Uns",
+                  "id": 13
+                },
+                "3": {
+                  "title": "Wolves",
+                  "id": 25,
+                  "ideas": {
+                    "1": {
+                      "title": "Dogs",
+                      "id": 26
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Horses",
+                  "id": 27
+                },
+                "5": {
+                  "title": "Sheep",
+                  "id": 28
+                },
+                "6": {
+                  "title": "Pigs",
+                  "id": 29
+                }
+              },
+              "attr": {
+                "position": [
+                  79,
+                  107,
+                  1
+                ],
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Birds",
+              "id": 31,
+              "ideas": {
+                "1": {
+                  "title": "Vultures",
+                  "id": 30,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "2": {
+          "title": "Built",
+          "id": 33,
+          "ideas": {
+            "1": {
+              "title": "City Center",
+              "id": 56
+            },
+            "2": {
+              "title": "Road",
+              "id": 57
+            },
+            "3": {
+              "title": "Tent",
+              "id": 58
+            }
+          }
+        },
+        "3": {
+          "title": "Magic",
+          "id": 34,
+          "ideas": {
+            "1": {
+              "title": "Spawner",
+              "id": 61
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#c0c0c0"
+        }
+      }
+    },
+    "-13": {
+      "title": "Time",
+      "id": 45,
+      "attr": {
+        "position": [
+          129,
+          236,
+          1
+        ],
+        "style": {
+          "background": "#c0c0c0"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Pause",
+          "id": 63,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
+        },
+        "2": {
+          "title": "Resume",
+          "id": 64,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
+        },
+        "3": {
+          "title": "Speed Up",
+          "id": 65,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
+        },
+        "4": {
+          "title": "Slow Down",
+          "id": 66,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
+        }
+      }
+    },
+    "-1.5": {
+      "title": "Behaviours",
+      "id": 95,
+      "ideas": {
+        "1": {
+          "title": "WorldEntity",
+          "id": 96,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
+        },
+        "2": {
+          "title": "MetaData",
+          "id": 103,
+          "attr": {
+            "style": {
+              "background": "#808000"
+            }
+          }
+        },
+        "3": {
+          "title": "Living",
+          "id": 104,
+          "ideas": {
+            "1": {
+              "title": "TreeDeathHandler",
+              "id": 107
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#808000"
+            }
+          }
+        },
+        "4": {
+          "title": "Grows",
+          "id": 105,
+          "ideas": {
+            "1": {
+              "title": "Uniform Scale With Growth",
+              "id": 106,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "Timber Source",
+          "id": 108
+        },
+        "6": {
+          "title": "Tree Can Spawn",
+          "id": 109,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
+        },
+        "7": {
+          "title": "Selectable",
+          "id": 110,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          411,
+          -162,
+          3
+        ],
+        "style": {
+          "background": "#c0c0c0"
+        }
+      }
+    },
+    "-23": {
+      "title": "Customisations",
+      "id": 36,
+      "attr": {
+        "position": [
+          103,
+          352,
+          4
+        ],
+        "style": {}
+      }
+    },
+    "-33": {
+      "title": "Manipulations",
+      "id": 35,
+      "attr": {
+        "style": {}
+      }
+    },
+    "4.5": {
+      "title": "Commands",
+      "id": 46,
+      "ideas": {
+        "1": {
+          "title": "help",
+          "id": 67,
+          "attr": {
+            "style": {
+              "background": "#808000"
+            }
+          }
+        },
+        "4": {
+          "title": "screen-shot",
+          "id": 112
+        },
+        "5": {
+          "title": "settings",
+          "id": 113
+        },
+        "6": {
+          "title": "bad-joke",
+          "id": 115
+        },
+        "7": {
+          "title": "auto",
+          "id": 116
+        },
+        "8": {
+          "title": "game",
+          "id": 117
+        },
+        "9": {
+          "title": "get",
+          "id": 118
+        },
+        "10": {
+          "title": "set",
+          "id": 119
+        },
+        "11": {
+          "title": "invoke",
+          "id": 120
+        },
+        "12": {
+          "title": "clear",
+          "id": 121
+        },
+        "22": {
+          "title": "uql",
+          "id": 68,
+          "attr": {
+            "style": {
+              "background": "#808000"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "select",
+              "id": 69,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          595,
+          179,
+          5
+        ],
+        "style": {}
+      }
+    },
+    "-43": {
+      "title": "Music",
+      "id": 139,
+      "attr": {
+        "position": [
+          112,
+          627,
+          6
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "UI",
+          "id": 140
+        },
+        "2": {
+          "title": "MP3s",
+          "id": 141,
+          "ideas": {
+            "1": {
+              "title": "Snog",
+              "id": 142
+            }
+          }
+        }
+      }
+    },
+    "7.5": {
+      "title": "UQL",
+      "id": 80,
+      "ideas": {
+        "1": {
+          "title": "Data Sources",
+          "id": 81,
+          "ideas": {
+            "5": {
+              "title": "all",
+              "id": 130,
+              "ideas": {
+                "1": {
+                  "title": "magic",
+                  "id": 129,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "built",
+                  "id": 128,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "dead",
+                  "id": 127,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "living",
+                  "id": 126,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "2": {
+          "title": "Data Components",
+          "id": 82
+        },
+        "3": {
+          "title": "Data Filters",
+          "id": 83,
+          "ideas": {
+            "1": {
+              "title": "red",
+              "id": 123,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            },
+            "2": {
+              "title": "green",
+              "id": 124,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            },
+            "3": {
+              "title": "blue",
+              "id": 125,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            },
+            "4": {
+              "title": "bird",
+              "id": 131,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            },
+            "5": {
+              "title": "mammal",
+              "id": 132,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            },
+            "6": {
+              "title": "plant",
+              "id": 133,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            },
+            "7": {
+              "title": "tree",
+              "id": 135,
+              "ideas": {
+                "1": {
+                  "title": "giantredwood",
+                  "id": 138,
+                  "attr": {
+                    "style": {
+                      "background": "#008080"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "0.5": {
+          "title": "Parser",
+          "id": 84,
+          "ideas": {
+            "1": {
+              "title": "SELECT * FROM",
+              "id": 85,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            },
+            "2": {
+              "title": "ORDER BY",
+              "id": 86
+            },
+            "3": {
+              "title": "WHERE",
+              "id": 87
+            },
+            "1.5": {
+              "title": "SELECT Meta.* FROM",
+              "id": 88,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            },
+            "1.75": {
+              "title": "SELECT Meta.Name, Meta.AgeInYears FROM",
+              "id": 89,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              130,
+              -358,
+              1
+            ],
+            "style": {
+              "background": "#808000"
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          650,
+          572,
+          8
+        ],
+        "style": {}
+      }
+    },
+    "-7.25": {
+      "title": "Terraform",
+      "id": 62,
+      "attr": {
+        "style": {}
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 122,
+      "ideaIdTo": 46,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 68,
+      "ideaIdTo": 84,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 91,
+      "ideaIdTo": 69,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ]
+}
