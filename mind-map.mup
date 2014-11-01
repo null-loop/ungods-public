@@ -342,6 +342,27 @@
               "id": 219
             }
           }
+        },
+        "4": {
+          "title": "Load from resource XML",
+          "id": 237
+        },
+        "5": {
+          "title": "Load from saved XML",
+          "id": 238
+        },
+        "6": {
+          "title": "Generate",
+          "id": 239,
+          "ideas": {
+            "1": {
+              "title": "Deterministic from seed",
+              "id": 240,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
         }
       },
       "attr": {
@@ -1236,7 +1257,7 @@
           }
         },
         "7": {
-          "title": "Cities",
+          "title": "Cities / Villages",
           "id": 23,
           "ideas": {
             "1": {
